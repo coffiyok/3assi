@@ -11,7 +11,6 @@ O(n) best case
 o(n^2) average
 o(n^2) worst
 
-
 *Merge Sort
 
 Merge Sort is an advanced algorithm that uses divide and conquer.
